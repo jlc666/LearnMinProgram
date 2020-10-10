@@ -1,3 +1,4 @@
 <!--pages/home/home.wxml-->
 <text>777</text>
 <button size="mini" id="btn">添加</button>
+<text>999</text>
